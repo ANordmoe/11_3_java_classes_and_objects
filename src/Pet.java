@@ -34,7 +34,7 @@ public class Pet {
         this.age = age;
     }
 
-    public String setType(String type) {
-        this.type = type;
+    public String setLocation(String location) {
+        this.location = location;
     }
 }
